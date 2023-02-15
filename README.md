@@ -9,7 +9,7 @@
 ---
 
 This project was made at [Le Reacteur](https://www.lereacteur.io/) Bootcamp.
-4 screens are avalaible: desktop and mobile
+2 screens are avalaible: desktop and mobile
 
 ![counters desktop](src/assets/desktop.png)
 ![counters mobile](src/assets/mobile.jpg)
