@@ -2,20 +2,17 @@
 
 :date: January 2023  
 :paintbrush: Frontend  
-:link: Netlify check it [here](https://inspiring-phoenix-9766e3.netlify.app/)
+:link: Netlify check it [here](https://neon-muffin-936ac2.netlify.app/)
 
 ## Overview - Welcome :dog:
 
 ---
 
 This project was made at [Le Reacteur](https://www.lereacteur.io/) Bootcamp.
-4 screens are avalaible: desktop, form and informations filled
-mobile phone,form and informations filled
+4 screens are avalaible: desktop and mobile
 
-![Form desktop](src/assets/desktop1.png)
-![Informations filled desktop](src/assets/desktp2.png)
-![Form list mobile](src/assets/mobile1.jpg)
-![Informations filled mobile](src/assets/mobile2.jpg)
+![counters desktop](src/assets/desktop.png)
+![counters mobile](src/assets/mobile.jpg)
 
 ## Tasks :pencil2:
 
