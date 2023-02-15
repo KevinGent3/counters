@@ -82,7 +82,7 @@ p {
 
 @media (max-width: 400px) {
   .App {
-    margin: 50px auto;
+    margin: 40px auto;
   }
   .map-container {
     display: flex;
