@@ -18,9 +18,7 @@ This project was made at [Le Reacteur](https://www.lereacteur.io/) Bootcamp.
 
 ---
 
-:ballot_box_with_check: Create layout  
-:ballot_box_with_check: three independent counters with possibility to reset one at a time  
-:ballot_box_with_check: Use states  
+:ballot_box_with_check: Create layout   
 :ballot_box_with_check: Create components  
 :ballot_box_with_check: Make responsive
 
