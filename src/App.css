@@ -64,8 +64,6 @@ p {
   margin-right: 25px;
 }
 @media (max-width: 1300px) {
-  .App {
-  }
   .counter-container {
     width: 300px;
     height: 300px;
@@ -90,5 +88,8 @@ p {
     display: flex;
 
     flex-direction: column;
+  }
+  .add-button button {
+    font-size: 16px;
   }
 }
